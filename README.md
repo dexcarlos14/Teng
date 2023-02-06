@@ -1,2 +1,2 @@
 # Teng
-Sample Public Repository
+My First Public Repository
